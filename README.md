@@ -4,7 +4,7 @@ Hi, I’m **Mpho Gift Mofokeng**, a **software engineering student** at **Wethin
 
 🎓 Currently, I’m enhancing my skills in **Python**, **APIs**, and **React**, and working on projects that integrate technology with real-world applications. I aim to combine **backend development** with my passion for **innovation** to make a positive impact in the tech industry.
 
-🚀 My career goal one day is to become a **Software Engineer** in the tech field, where I can lead teams and drive forward-thinking projects that solve complex challenges. I’m always looking to collaborate with like-minded individuals and contribute to impactful projects.
+🚀 My career goal one day is to become a **Software Engineer** , where I can lead teams and drive forward-thinking projects that solve complex challenges. I’m always looking to collaborate with like-minded individuals and contribute to impactful projects.
 
 🌱 I believe in continuous learning and staying updated with the latest trends in technology. I actively engage in personal projects and take part in coding challenges to further improve my skills.
 
