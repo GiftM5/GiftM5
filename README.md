@@ -11,8 +11,8 @@ Hi, I’m **Mpho Gift Mofokeng**, a **software engineering student** at **Wethin
 📫 Feel free to collaborate or share ideas.
 
 ### My current Skills:
-- Programming Languages: Python, JavaScript
-- Frameworks/Tools: Flask, React, Firebase, MongoDB
+- Programming Languages: Python, JavaScript, Java
+- Frameworks/Tools: Flask, React, Firebase, MongoDB,FastAPI,Postgres SQL,SQLAlchemy
 - Interests: Software Development, Machine Learning, Web Development
 
 ### Contact Me:
