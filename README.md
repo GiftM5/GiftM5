@@ -9,8 +9,11 @@ Hi, I’m Mpho Gift Mofokeng, a software engineering student at Wethinkcode, foc
 🌱 I believe in continuous learning and staying updated with the latest trends in technology. I actively engage in personal projects and take part in coding challenges to further improve my skills.
 
 My current Skills:
+
 Programming Languages: Python, JavaScript, Java
+
 Frameworks/Tools: Flask, React, Firebase, MongoDB,FastAPI,Postgres SQL
+
 Interests: Software Development, Machine Learning, Web Development
 
 ---
