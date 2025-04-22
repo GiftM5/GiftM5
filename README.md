@@ -12,12 +12,11 @@ My current Skills:
 Programming Languages: Python, JavaScript, Java
 Frameworks/Tools: Flask, React, Firebase, MongoDB,FastAPI,Postgres SQL
 Interests: Software Development, Machine Learning, Web Development
+
+---
 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpho-mofokeng-956b6b328/)
-
-## 📊 GitHub Stats
-
-![GiftM5's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiftM5&show_icons=true&theme=tokyonight)
+---
 
 ## 📫 Let's Collaborate!
 
