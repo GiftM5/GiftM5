@@ -17,7 +17,6 @@ Hi, I’m **Mpho Gift Mofokeng**, a **software engineering student** at **Wethin
 
 ### Contact Me:
 - LinkedIn: [(https://www.linkedin.com/in/mpho-mofokeng-956b6b328/)]
-- GitHub: [(https://github.com/GiftM5/)]
 
 #TechInnovation #BackendDevelopment #SoftwareEngineering #ContinuousLearning #Collaboration
 
